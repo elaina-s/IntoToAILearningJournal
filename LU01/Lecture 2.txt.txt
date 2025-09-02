@@ -1,0 +1,18 @@
+AI is biased based ont the person/people who built it
+AI is made up of data
+Context Window
+  The max. number of tokens (Words or part of words) 
+  Memory capacity of the model during an interaction or task
+Generative AI
+  Tech Approch that enables creation of content
+  Hallucination in AI - Making something up/Error
+  Large Language Model 
+  System Promt - prompt before chats
+  Prompt Engineering - Process of making prompts better
+  Temperature- the scale of sillyness in the output of AI 
+  Tokenizer - 
+    When you do an imput into AI, your Input is Tokenized. 
+    Each words is a token, splits characters sometimes. 
+    Around 4 characters per token. 
+    More advanced AI uses more tokens per word.
+  

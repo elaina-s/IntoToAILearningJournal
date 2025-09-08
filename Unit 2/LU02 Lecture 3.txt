@@ -1,0 +1,14 @@
+Summarizing 
+
+Chain of density
+	- Breaking a prompt down into subsections to ensure correct sumarization
+Rag 
+	- LLM that can retreive and synthisize information 
+	
+Intranet - network/data pool that is stored inside of the compony only
+
+Agentic - Can interact with outsiide programs, ie can post videos, edit documents, or send emails.
+		Goal Driven, set to one task
+		Self correcting
+		
+Halucinations - AI giving an answer that is unable to be known

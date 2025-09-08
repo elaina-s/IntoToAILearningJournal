@@ -1,0 +1,40 @@
+What is Prompt Engineering
+	Process where you guide geniterive artificial inteligence to perform a specific task
+	Shortest input to get best output
+Why is it important
+	low cost
+	more flexible
+	improved user experience
+	Clear specific prompts with context
+	Sometimes AI just sucks
+
+
+
+
+Task
+	Persona(Who the AI is)
+	Format: Output type
+
+Context
+	Good context: 	Give me some ideas for a birthday presesnt. Under $30
+	
+	Great Context: 	Give me 5 ideas for a birthday presesnt, my budget is $30. 
+					The gift is for a 29 year old who loves winter sports and 
+					has recently switched to snowboarding from skiing.
+
+Reference
+	Additional input data, ideas
+	
+Evaluate
+	Output
+	
+Iterate
+	
+	
+	
+Break long string of text into multiple smaller prompts
+
+
+If stuck in a loop, rephrase prompt
+
+Impliment constraints in prompts for better output

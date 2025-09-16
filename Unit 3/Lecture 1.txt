@@ -1,0 +1,27 @@
+What is multimedia?
+	Ai Generated multimedia
+		AI Generated Videos
+		Ai Generated Audio
+		AI Generated Video games
+	Doesn't have to ba on social media
+	Any media that is generated, modified or enhanced by AI
+	
+How much AI does it take to consider something AI generated?
+	Fully
+	little to No Human involvement
+
+Key Terms:
+	Text-to-speech
+		Converting written text to natural sounding speech
+		Voice Cloning
+			Use an audio sample to make it
+	Text-to-video
+		Prompting the AI to give a video
+		young technology
+	Image-to-video
+		Use a photo to make into a video
+		Use AI to generate a photo and then make that into a video.
+		
+Audio needs = emotion, pacing, enphasis, audience, context,
+
+Video needs = lighting, frame, style, good grammar, short sentences, test first, 

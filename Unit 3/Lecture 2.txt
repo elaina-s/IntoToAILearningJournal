@@ -1,0 +1,15 @@
+ Proxy - coverts large files into smaller files that rever back to the original size when exported
+ transcode - changing the file size perminantly
+ Render - combines all files into a finished product
+ 
+ Triangle
+	1.Resolution 
+	2.File Size
+	3.Time for loading
+	
+	Can get 2 of three
+		ex. 
+			small file, high res: will take a long time
+			small file, quick time: low res
+			
+			

@@ -1,0 +1,17 @@
+Bug
+	First bug was a moth
+	Means the program is broken
+	
+Using AI to fix Bugs
+	pros:
+		Ai can often find common errors in seconds
+		can be used as a learning aid, can explain how to fix it
+		can come up with ideas on how to fix bugs
+		productivity, can do it faster.
+	cons:
+		very lazy
+		small outputs
+		likes to delete code instead of fixing it
+		Can make solutions that break the main functions
+		Makes stuff up/ invents things
+		

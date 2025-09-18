@@ -1,0 +1,13 @@
+AI coding
+	Pros:
+		Speed
+		Learning Aide
+		Testing approaches quickly
+		prototypes
+	
+	Cons:
+		Halucinating
+		Always outdated
+		Low context window
+		Expensive
+		Lose knowledge the more you use it

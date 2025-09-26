@@ -1,0 +1,38 @@
+Hardware
+	Motherboard
+		Daughterboards connected to Motherboard
+		
+		CPU is in motherboards
+			Made of silicon(sand?)
+			Thinking of computer
+			branches to the PCI Lanes
+		PCI Lanes
+			
+		RAM
+			Random Access Memory
+			Volitile
+			When turned off and on, clears RAM
+			Stores Data to be stored in CPU
+		
+		Storage
+			Hard Drive
+				HDD
+				physical disk
+			Solid state storage
+				chip
+			
+		Expantion drives
+			Co-Processors/Excelerator Cards
+				GPU
+					Graphics processing
+					video encoding and decoding
+					pysics
+					AI
+					Has a lot of tiny cores
+					parralell processing oriented
+					can do a lot of small tasks at once
+					good at AI
+					Has RAM on it
+			
+Required for AI
+mkdir -my directory

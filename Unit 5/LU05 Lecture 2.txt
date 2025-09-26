@@ -1,0 +1,12 @@
+Virtualization
+	Hypervisors
+		Type 1
+			Connects directly with the host with no buffer
+			
+		Type 2
+			Has an operating system between the host and the hypervisors
+	Virtual Machines
+		Can have different opperating systems in each
+		Each hypervisor can have as many VM as there is data
+		Independant of the host
+		Can transfer from hypervisor to hypervisor seamlessly

@@ -1,0 +1,18 @@
+docker
+	OS
+	Container runtime
+	container
+	
+	uses kernels
+	containerization
+	
+Podman
+IBM
+
+
+
+
+
+docker run -d -p 8080:80 --name (anything here)
+
+docker exec -it (software name)

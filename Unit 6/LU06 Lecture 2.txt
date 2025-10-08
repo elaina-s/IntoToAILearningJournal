@@ -1,0 +1,11 @@
+docker ps -a
+	lists the container specs
+docker -v
+	gives the version
+docker exec -it ollama bash
+	opens ollama
+ollama run phi3:latest
+	opens the phi3:latest bot
+	
+exit
+	to exit

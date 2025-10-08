@@ -1,0 +1,2 @@
+Modelfile - blueprint to create and share ai
+System prompt - system message or prompt that goes in front of the prompt

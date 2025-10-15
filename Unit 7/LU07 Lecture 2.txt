@@ -1,0 +1,8 @@
+Agentic AI
+	has access to your files and can change them for your
+	Can delete all it hass access to
+Refactoring
+	Moving code around to make it make more sense without changing the code.
+AI was trained on old code
+	might not know modern code
+	

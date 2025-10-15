@@ -1,0 +1,23 @@
+Web is built on frameworks
+
+Frameworks
+	Front End
+	Back End
+	Databases
+	Svelte is a framework
+
+Svelte
+	Need Node.js 
+		Node -v to check the version
+		Runs JavaScript on a server
+
+Interpreted Languages
+	runs down the lines and stops if theres an error
+	
+Compiled Languages
+	processes the whole page before showing any errors
+	do this to increase speed
+	
+Windows script access error fix:
+	Set-ExicutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+	

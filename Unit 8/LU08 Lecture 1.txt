@@ -1,0 +1,11 @@
+OpenScad
+	cube - makes a cube
+		cube([x,y,z])
+	cylinder - make a cylinder
+		cylinder(h=n, r=n)
+	center=true - centers the block
+		cube([x,y,z], center=true)
+	translate - moves the block
+		translate([x,y,z])
+	rotate - rotates the block
+		rotate([x,y,z])

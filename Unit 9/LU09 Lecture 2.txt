@@ -1,0 +1,9 @@
+MySQL
+   	docker pull MySQL
+  	docker run --name n8n-mysql -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d mysql
+	docker cp sample_db.sql n8n-mysql:/temp
+   	docker exec -it n8n-mysql bash
+	cd /temp
+	mysql -u root -p
+	source /temp/sample_db.sql
+
